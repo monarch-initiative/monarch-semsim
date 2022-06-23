@@ -1,7 +1,11 @@
 # Requirements
+
 ## Capture guiding principles/decisions in this new repo (in Readme)
+
 ## Ultimate goal: Replace OWLSim to drastically reduce our bill. 
+
 ## First iteration will be semantic similarity only.  Cosine will be researched further and implemented later.
+
 ## Initialization and deployment
 
 - inputs will be Phenio and the relevant subset of the Monarch KG (list ontologies, associations included)
